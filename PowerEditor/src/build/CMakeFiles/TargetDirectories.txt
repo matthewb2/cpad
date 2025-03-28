@@ -1,0 +1,3 @@
+D:/msys64_231026/home/user/notepad-plus-plus/PowerEditor/src/build/CMakeFiles/notepad++.dir
+D:/msys64_231026/home/user/notepad-plus-plus/PowerEditor/src/build/CMakeFiles/edit_cache.dir
+D:/msys64_231026/home/user/notepad-plus-plus/PowerEditor/src/build/CMakeFiles/rebuild_cache.dir
